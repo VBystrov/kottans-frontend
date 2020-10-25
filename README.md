@@ -49,3 +49,8 @@ Main commands:
 
 ![Completion screenshots](./task_linux_cli)
 
+## 3. Git Collaboration
+
+In this section I learned a lot about remotes, linking remotes to local branches. Interesting capability define sourse and destination for fetch, push, pull.
+
+![Completion screenshots](./task_git_collaboration)
