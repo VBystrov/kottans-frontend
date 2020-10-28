@@ -10,7 +10,11 @@ Not sure whether I will use them in my work every day or not, but I think its us
 
 Show all branches graph: ` git log --oneline --decorate --graph --all `
 
-![Completion screenshots](./00_Git_Basics/screenshots/)
+![Completion screenshots](./00_Git_Basics/screenshots/udacity_git.jpg)
+
+![Completion screenshots](./00_Git_Basics/screenshots/branching_introduction.jpg)
+
+![Completion screenshots](./00_Git_Basics/screenshots/branching_remotes.jpg)
 
 ## 2. Linux CLI and Networking
 
@@ -47,13 +51,25 @@ Main commands:
 - `ps aux` - get a detailed list of all processes
 - `kill` - close process
 
-![Completion screenshots](./task_linux_cli)
+![Completion screenshots](./task_linux_cli/linux_1.jpg)
+
+![Completion screenshots](./task_linux_cli/linux_2.jpg)
+
+![Completion screenshots](./task_linux_cli/linux_3.jpg)
+
+![Completion screenshots](./task_linux_cli/linux_4.jpg)
+
 
 ## 3. Git Collaboration
 
 In this section I learned a lot about remotes, linking remotes to local branches. Interesting capability define sourse and destination for fetch, push, pull.
 
-![Completion screenshots](./task_git_collaboration)
+![Completion screenshots](./task_git_collaboration/git_collab.jpg)
+
+![Completion screenshots](./task_git_collaboration/learn_git_main.jpg)
+
+![Completion screenshots](./task_git_collaboration/learn_git_remote.jpg)
+
 
 ## 4. Intro to HTML and CSS
 This courses teach some basics, so I dont really learn something new, but helped me better remember details.
