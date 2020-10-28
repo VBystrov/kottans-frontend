@@ -54,3 +54,13 @@ Main commands:
 In this section I learned a lot about remotes, linking remotes to local branches. Interesting capability define sourse and destination for fetch, push, pull.
 
 ![Completion screenshots](./task_git_collaboration)
+
+## 4. Intro to HTML and CSS
+This courses teach some basics, so I dont really learn something new, but helped me better remember details.
+
+![udacity_intro](./task_html_css_intro/udacity_intro.jpg)
+
+![codecademy_HTML](./task_html_css_intro/codecademy_HTML.jpg)
+
+![codecademy_CSS](./task_html_css_intro/codecademy_CSS.jpg)
+
