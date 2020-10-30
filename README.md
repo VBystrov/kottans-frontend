@@ -80,3 +80,25 @@ This courses teach some basics, so I dont really learn something new, but helped
 
 ![codecademy_CSS](./task_html_css_intro/codecademy_CSS.jpg)
 
+## 5. Responsive Web Design
+
+This course had a lot new for me. I learned about main responsive patterns. 
+Interesting info:
+- for readability the good length of a line of text 45-90 characters and 65 for web.
+- tap targets must be not less than 48*48px 
+
+Responsive patterns: 
+- column drop
+- mostly fluid
+- layout shifter
+- off canvas
+
+Responsive tables:
+- hidden colums
+- no more tables
+- contained tables
+
+
+![udacity_responsive](./task_responsive_web_design/udacity_responsive.jpg)
+
+![flexbox_froggy](./task_responsive_web_design/flexbox_froggy.jpg)
