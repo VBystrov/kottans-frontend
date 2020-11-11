@@ -102,3 +102,10 @@ Responsive tables:
 ![udacity_responsive](./task_responsive_web_design/udacity_responsive.jpg)
 
 ![flexbox_froggy](./task_responsive_web_design/flexbox_froggy.jpg)
+
+## 5. HTML & CSS practice: Hooli-style Popup
+
+Working at this task I learned some things about accessibility. Surprized me that label trigger linked input only on mouse click, but not keyboard. 
+
+[demo](https://vbystrov.github.io/html-css-popup/index.html)
+[code](https://github.com/VBystrov/html-css-popup)
