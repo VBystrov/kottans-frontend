@@ -109,3 +109,17 @@ Working at this task I learned some things about accessibility. Surprized me tha
 
 [demo](https://vbystrov.github.io/html-css-popup/index.html)
 [code](https://github.com/VBystrov/html-css-popup)
+
+## 6. JS Basics
+
+In this chapter i repeated JS basics.  freecodecamp  tasks was really cool, some of them made me think a lot for solution.
+
+What surprised:
+
+splice with only first parameter will delete elements from *start* to the end of array, this case was not even described at w3schools.
+
+arr.splice(*start*);
+
+
+![udacity_js](./task_js_basics/udacity_js.png)
+![freecodecamp](./task_js_basics/freecodecamp_js.png)
