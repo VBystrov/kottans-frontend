@@ -123,3 +123,32 @@ arr.splice(*start*);
 
 ![udacity_js](./task_js_basics/udacity_js.png)
 ![freecodecamp](./task_js_basics/freecodecamp_js.png)
+
+## 7. DOM
+
+Some notes about new things I learned:
+
+##### Text
+Node.textContent - represents the text content of the node and its descendants.
+
+Element.innerHTML - gets or sets the HTML or XML markup contained within the element.
+
+HTMLElement.innerText - represents the "rendered" text content of a node and its descendants. 
+
+Interesting difference between innerText and textContent - the elements that are not rendered are also not present in innerText and the line breaks in innerText follow the line breaks that were introduced by layout (not the original text we stuffed in the DOM).
+Preferable use textContent because of better performance.
+
+##### Events
+.removeEventListener() method requires you to pass the same exact listener function to it as the one you passed to .addEventListener().
+
+There are three different phases during the lifecycle of an event. They are:
+ - the capturing phase
+ - the at target phase
+ - and the bubbling phase
+
+##### State
+Hover, focus, and active states should be styled different.
+the best way to order your pseudo-class styles are :hover then :focus then :active
+
+![udacity_dom](./task_js_dom/udacity_dom.png)
+![freecodecamp_js](./task_js_dom/freecodecamp_js.png)
