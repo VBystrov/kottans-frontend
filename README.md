@@ -152,3 +152,9 @@ the best way to order your pseudo-class styles are :hover then :focus then :acti
 
 ![udacity_dom](./task_js_dom/udacity_dom.png)
 ![freecodecamp_js](./task_js_dom/freecodecamp_js.png)
+
+## 8. Building a Tiny JS World (pre-OOP)
+
+Task to show why we need classes and inheritance. 
+
+![udacity_dom](./task_js_pre-oop/a_tiny_js_world.png)
