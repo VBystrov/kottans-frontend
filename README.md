@@ -158,3 +158,13 @@ the best way to order your pseudo-class styles are :hover then :focus then :acti
 Task to show why we need classes and inheritance. 
 
 ![udacity_dom](./task_js_pre-oop/a_tiny_js_world.png)
+
+## 9. Object Oriented JS
+
+In this lesson I learned about lexical and execution scope, about prototypal inheritance in JS.
+
+I am very glad to discover codewars, its very cool way to check and improve resolving coding problems. 
+
+![udacity_oop_1](./task_js_oop/udacity_oop_1.png)
+![udacity_oop_2](./task_js_oop/udacity_oop_2.png)
+![codewars](./task_js_oop/codewars.png)
