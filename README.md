@@ -168,3 +168,9 @@ I am very glad to discover codewars, its very cool way to check and improve reso
 ![udacity_oop_1](./task_js_oop/udacity_oop_1.png)
 ![udacity_oop_2](./task_js_oop/udacity_oop_2.png)
 ![codewars](./task_js_oop/codewars.png)
+
+## 11. Offline Web Applications
+
+Theme of this course was completely new for me, I learned what is service worker and concept offline first. Its really important for user experience so I will use it all in the future. 
+
+![offline_web_app](./task_offline_web_app/offline_web_app.png)
