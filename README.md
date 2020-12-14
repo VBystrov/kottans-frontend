@@ -169,6 +169,13 @@ I am very glad to discover codewars, its very cool way to check and improve reso
 ![udacity_oop_2](./task_js_oop/udacity_oop_2.png)
 ![codewars](./task_js_oop/codewars.png)
 
+## 10. OOP exercise
+
+In this task I used my knowledge of OOP at practice. Important thing that I learned - every class should refer to the properties it owns directly.
+
+[Demo](https://vbystrov.github.io/a-tiny-JS-world/) | [Code base](https://github.com/VBystrov/a-tiny-JS-world)
+
+![opp-exercise](./task_js_post-oop/opp-exercise.png)
 ## 11. Offline Web Applications
 
 Theme of this course was completely new for me, I learned what is service worker and concept offline first. Its really important for user experience so I will use it all in the future. 
