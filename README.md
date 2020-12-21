@@ -181,3 +181,12 @@ In this task I used my knowledge of OOP at practice. Important thing that I lear
 Theme of this course was completely new for me, I learned what is service worker and concept offline first. Its really important for user experience so I will use it all in the future. 
 
 ![offline_web_app](./task_offline_web_app/offline_web_app.png)
+
+## 12. Memory – Pair Game
+
+With implementing this task I learned generator functions and reminded that DOM access oprations is expensive so we should batch them if possible. 
+Generators are functions that can be exited and later re-entered. Their context (variable bindings) will be saved across re-entrances.
+
+[Demo](https://vbystrov.github.io/memory-pair-game/) | [Code base](https://github.com/VBystrov/memory-pair-game)
+
+![memory_pair_game](./task_memory_pair_game/memory_pair_game.png)
