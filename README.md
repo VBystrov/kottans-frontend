@@ -190,3 +190,12 @@ Generators are functions that can be exited and later re-entered. Their context 
 [Demo](https://vbystrov.github.io/memory-pair-game/) | [Code base](https://github.com/VBystrov/memory-pair-game)
 
 ![memory_pair_game](./task_memory_pair_game/memory_pair_game.png)
+
+## 14. Friends App 
+
+This task was great pactice in writing code in OOP style. Now I understand better how point out entities and how they must communicate. 
+I learned how to change adress without reloading page and how to use URL API. 
+
+[Demo](https://vbystrov.github.io/friends-app/) | [Code base](https://github.com/VBystrov/friends-app)
+
+![friends-app](./task_friends_app/friends-app.png)
